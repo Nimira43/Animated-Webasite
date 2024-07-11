@@ -79,3 +79,22 @@ span, i {
     margin-left: -2000px;
   }
 }
+
+.paddingLeft {
+  padding-left: 30px;
+}
+
+i {
+  padding-left: 20px;
+  font-size: 6vw;
+}
+
+.textbox2 {
+  width: 48%;
+  float: left;
+  margin-left: 20px;
+}
+
+a {
+  color: orangered;
+}
