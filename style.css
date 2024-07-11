@@ -61,3 +61,21 @@ span, i {
   width: 100%;
   height: auto;
 }
+
+.photos {
+  width: 3200px;
+  animation: 30s slide;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.collage {
+  width: 100%;
+  overflow: hidden;
+}
+
+@keyframes slide {
+  100% {
+    margin-left: -2000px;
+  }
+}
