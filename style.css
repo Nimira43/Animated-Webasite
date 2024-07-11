@@ -18,3 +18,46 @@ body {
   float: left;
   font-size: 18vw;
 }
+
+h1 {
+  font-size: 18vw;
+}
+
+.imgbox {
+  width: 50%;
+  height: 550px;
+  float: left;
+  overflow: hidden;
+}
+
+.topimg {
+  width: 100%;
+  height: auto;
+}
+
+.textbox {
+  position: relative;
+  width: 100%;
+}
+
+p {
+  font-weight: bold;
+  text-align: justify;
+}
+
+span, i {
+  font-size: 65px;
+  font-weight: 900;
+}
+
+.image-box {
+  width: 400px;
+  height: auto;
+  float: left;
+  padding: 5px;
+}
+
+.image-box img {
+  width: 100%;
+  height: auto;
+}
